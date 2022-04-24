@@ -1,11 +1,7 @@
 # flutterapp
 
-A new Flutter project.
-
-## Getting Started
-
 This Project was made to practice the concepts of layout in widgets. I learnt the usage of many widgets
-while developing this movie app.
+while developing this movie app. I have also applied neumorphic design in the ui.
 
 ## Screenshots
 
