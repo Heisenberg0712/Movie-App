@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Project was made to practice the concepts of layout in widgets. I learnt the usage of many widgets
+while developing this movie app.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1650804477](https://user-images.githubusercontent.com/65536492/164977327-09b0f49c-ea41-413c-8876-603dea13d141.png)
+![Screenshot_1650804491](https://user-images.githubusercontent.com/65536492/164977330-eefa692d-144e-485f-8adc-a576384d3b1a.png)
