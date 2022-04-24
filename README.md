@@ -1,6 +1,6 @@
 # flutterapp
 
-This Project was made to practice the concepts of layout in widgets. I learnt the usage of many widgets
+This Project was made to practice the concepts of layout in flutter. I learnt the usage of many widgets
 while developing this movie app. I have also applied neumorphic design in the ui.
 
 ## Screenshots
